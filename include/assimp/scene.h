@@ -224,7 +224,7 @@ struct aiNode
  *  delete a given scene on your own.
  */
 // -------------------------------------------------------------------------------
-struct aiScene
+struct ASSIMP_API aiScene
 {
 
 	/** Any combination of the AI_SCENE_FLAGS_XXX flags. By default 
